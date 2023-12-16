@@ -1,6 +1,8 @@
 
 # Minecraft Style
 
+### [[Paper]](https://drive.google.com/file/d/1qkyM1AJvInGOhicSeu35ukghbOPZ19zh/view?usp=sharing) [[Slide]](/docs/static/Minecraft_ify_slide.pdf)
+
 This repository is official Pytorch implementation for [Arxiv](Arxiv).
 
 *(code will be released)*
